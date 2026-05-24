@@ -1,3 +1,4 @@
 /audio_env
-/ml_service/notebook/dataset
-/ml_service/src/data/__pycache__
+/backend/notebook/dataset
+/backend/src/data/__pycache__
+/backend/src/features/__pycache__
