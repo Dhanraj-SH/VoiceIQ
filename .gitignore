@@ -2,3 +2,5 @@
 /backend/notebook/dataset
 /backend/src/data/__pycache__
 /backend/src/features/__pycache__
+/data
+/backend/notebook/temp.wav
